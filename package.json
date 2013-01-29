@@ -1,0 +1,21 @@
+{
+  "name": "map-marker-shapes",
+  "version": "0.0.1",
+  "description": "Plugin for creating map(google maps) markers with various shapes and text",
+  "keywords": ['map markers', 'google maps', 'markers'],
+  "author": "Carlos Reynosa <creynosa9@gmail.com> (http://carlos-reynosa.github.com)",
+  "repository": "git://github.com/carlos-reynosa/maps-marker-shapes.git",
+  "main": "MapMarkerShapes",
+  "homepage": "https://github.com/carlos-reynosa/map-marker-shapes",
+  "bugs": {
+    "url": "https://github.com/carlos-reynosa/map-marker-shapes/issues",
+    "email": "creynosa9@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://github.com/carlos-reynosa/map-marker-shapes/raw/master/LICENSE"
+  }],
+  "scripts": {}
+}
