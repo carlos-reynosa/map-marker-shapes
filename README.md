@@ -4,8 +4,7 @@
 ====================
 Map Marker Shapes is a HTML5 canvas JavaScript component that provides an easy way for creating customized map (i.e. Google Maps) marker shapes with or without text.
 The component is usefull for generating dynamic map markers of various shapes, colors, and sizes with text embedded at the center.
-The component is meant to be used with Google Maps type of applications that need to display differnt types of markers that differ in shape
-and text properties depending on application state and data.
+The component is meant to be used with Google Maps type of applications that need to display markers that differ visually depending on application state and data.
 
 The tool currently only supports drawing the following shapes:
 
